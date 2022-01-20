@@ -29,7 +29,7 @@ print(b)
 ![norm1](./input.jpg)
 
 ## output 
-![output]()
+![output](https://github.com/charansai0/Norm-Matrix/blob/main/Screenshot%20(223).png?raw=true)
 
 ## Result
 Thus the program for 2-norm of a matrix is written and verified.
